@@ -359,6 +359,10 @@ footer {
     width: 350px;
     height: 150px;
   }
+  .profile-pic {
+    width: 180px;
+    height: 180px;
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -382,5 +386,18 @@ footer {
   }
   .project4 {
     width: 50%;
+  }
+  iframe {
+    width: 80%;
+  }
+
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+  }
+
+  .coding-image {
+    width: 150px;
+    height: 150px;
   }
 }
